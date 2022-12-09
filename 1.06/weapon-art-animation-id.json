@@ -1,0 +1,4185 @@
+{
+    "835": {
+        "name": "Flowing Form - Double Swing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flowing Form - Double Swing",
+            "classes": [],
+            "weapons": [
+                "Nox Flowing Hammer"
+            ]
+        }
+    },
+    "20050": {
+        "name": "Barrage Walking",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage Walking",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "61840300": {
+        "name": "Angel's Wings - Leaping Slash (Loretta's Slash)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Angel's Wings - Leaping Slash (Loretta's Slash)",
+            "classes": [],
+            "weapons": [
+                "Winged Scythe"
+            ]
+        }
+    },
+    "65740000": {
+        "name": "Prayerful Strike - Slam Light Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Prayerful Strike - Slam Light Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "65740200": {
+        "name": "Regal Beastclaw - Slam (Prayerful Strikes), Prayerful Strike - Slam Heavy Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Regal Beastclaw - Slam (Prayerful Strikes), Prayerful Strike - Slam Heavy Weapon",
+            "classes": [],
+            "weapons": [
+                "Beastclaw Greathammer"
+            ]
+        }
+    },
+    "66540000": {
+        "name": "Ice Lightning Sword - Downward Slash (Lightning Slash)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ice Lightning Sword - Downward Slash (Lightning Slash)",
+            "classes": [],
+            "weapons": [
+                "Dragonscale Blade"
+            ]
+        }
+    },
+    "84540000": {
+        "name": "Flame Dance - Flame Twirl",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flame Dance - Flame Twirl",
+            "classes": [],
+            "weapons": [
+                "Giant's Red Braid"
+            ]
+        }
+    },
+    "600040000": {
+        "name": "Lion's Claw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lion's Claw",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "600040005": {
+        "name": "Lion's Claw - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lion's Claw - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "601040000": {
+        "name": "Impaling Thrust - Light Weapon Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Impaling Thrust - Light Weapon Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "601040200": {
+        "name": "Impaling Thrust - Medium Weapon Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Impaling Thrust - Medium Weapon Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "601040300": {
+        "name": "Impaling Thrust - Heavy Weapon Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Impaling Thrust - Heavy Weapon Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "601044200": {
+        "name": "Unblockable Blade - Thrust (Impaling Thrust), Impaling Thrust - Fist/Claw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Unblockable Blade - Thrust (Impaling Thrust), Impaling Thrust - Fist/Claw",
+            "classes": [],
+            "weapons": [
+                "Cipher Pata"
+            ]
+        }
+    },
+    "602040000": {
+        "name": "Piercing Fang - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Piercing Fang - Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "603040000": {
+        "name": "Magma Shower - Spin (Spin Slash Curved Sword), Spinning Slash - Light Weapon Spin, Spinning Slash 1",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Shower - Spin (Spin Slash Curved Sword), Spinning Slash - Light Weapon Spin, Spinning Slash 1",
+            "classes": [],
+            "weapons": [
+                "Magma Blade"
+            ]
+        }
+    },
+    "603040005": {
+        "name": "Spinning Slash 1 - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash 1 - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "603040010": {
+        "name": "Magma Shower - Slash, Spinning Slash - Light Weapon Double Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Shower - Slash, Spinning Slash - Light Weapon Double Spin",
+            "classes": [],
+            "weapons": [
+                "Magma Blade"
+            ]
+        }
+    },
+    "603040200": {
+        "name": "Spinning Slash - Heavy Weapon Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Heavy Weapon Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "603040210": {
+        "name": "Spinning Slash - Heavy Weapon Double Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Heavy Weapon Double Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "603040300": {
+        "name": "Spinning Slash - Lightning Spin (Spinning Slash Polearm), Spinning Slash - Polearm Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Lightning Spin (Spinning Slash Polearm), Spinning Slash - Polearm Spin",
+            "classes": [],
+            "weapons": [
+                "Dragon Halberd"
+            ]
+        }
+    },
+    "603040310": {
+        "name": "Spinning Slash - Lightning Slam, Spinning Slash - Polearm Double Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Lightning Slam, Spinning Slash - Polearm Double Spin",
+            "classes": [],
+            "weapons": [
+                "Dragon Halberd"
+            ]
+        }
+    },
+    "603042400": {
+        "name": "Spinning Slash - Axe Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Axe Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "603042410": {
+        "name": "Spinning Slash - Axe Double Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Slash - Axe Double Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "605040000": {
+        "name": "Charge Forth - Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Charge Forth - Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "605040001": {
+        "name": "Charge Forth - Finish",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Charge Forth - Finish",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "606040000": {
+        "name": "Stomp Upward Cut - Stomp, Stamp (Upward Cut) [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Upward Cut - Stomp, Stamp (Upward Cut) [1]",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "606040005": {
+        "name": "Stamp (Upward Cut) [1] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stamp (Upward Cut) [1] - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "606040010": {
+        "name": "Stomp Upward Cut - Upward Cut, Stamp (Upward Cut) [2]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Upward Cut - Upward Cut, Stamp (Upward Cut) [2]",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "606040015": {
+        "name": "Stamp (Upward Cut) [2] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stamp (Upward Cut) [2] - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040000": {
+        "name": "Stomp Sweep - Light Weapon Stomp",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Light Weapon Stomp",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040010": {
+        "name": "Stomp Sweep - Light Weapon Sweep",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Light Weapon Sweep",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040200": {
+        "name": "Stomp Sweep - Medium Weapon Stomp, Stamp (Sweep) [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Medium Weapon Stomp, Stamp (Sweep) [1]",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040205": {
+        "name": "Stamp (Sweep) [1] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stamp (Sweep) [1] - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040210": {
+        "name": "Stomp Sweep - Medium Weapon Sweep, Stamp (Sweep) [2]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Medium Weapon Sweep, Stamp (Sweep) [2]",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040215": {
+        "name": "Stamp (Sweep) [2] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stamp (Sweep) [2] - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040300": {
+        "name": "Stomp Sweep - Heavy Weapon Stomp",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Heavy Weapon Stomp",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "607040310": {
+        "name": "Stomp Sweep - Heavy Weapon Sweep",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stomp Sweep - Heavy Weapon Sweep",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "608040000": {
+        "name": "Repeating Thrusts - Light Weapon Thrusts (Blood Tax), Blood Tax - Light Weapon Thrusts",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Repeating Thrusts - Light Weapon Thrusts (Blood Tax), Blood Tax - Light Weapon Thrusts",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "608040200": {
+        "name": "Repeating Thrusts - Medium Weapon Thrusts, Blood Tax - Medium Weapon Thrusts",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Repeating Thrusts - Medium Weapon Thrusts, Blood Tax - Medium Weapon Thrusts",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "608040300": {
+        "name": "Repeating Thrusts - Heavy Weapon Thrusts, Blood Tax - Heavy Weapon Thrusts",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Repeating Thrusts - Heavy Weapon Thrusts, Blood Tax - Heavy Weapon Thrusts",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040050": {
+        "name": "Wild Strikes - Ready, Wild Strikes (axes) [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Ready, Wild Strikes (axes) [1]",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040051": {
+        "name": "Wild Strikes - Begin Swings",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Begin Swings",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040052": {
+        "name": "Wild Strikes - Maintain Swings",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Maintain Swings",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040053": {
+        "name": "Wild Strikes - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040060": {
+        "name": "Wild Strikes - Light Weapon Light Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Light Weapon Light Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040062": {
+        "name": "Wild Strikes - Heavy Weapon Light Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Heavy Weapon Light Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040070": {
+        "name": "Wild Strikes - Light Weapon Heavy Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Light Weapon Heavy Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "610040072": {
+        "name": "Wild Strikes - Heavy Weapon Heavy Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wild Strikes - Heavy Weapon Heavy Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040050": {
+        "name": "Spinning Strikes - Ready",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Ready",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040051": {
+        "name": "Spinning Strikes - Begin Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Begin Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040052": {
+        "name": "Spinning Strikes - Maintain Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Maintain Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040053": {
+        "name": "Spinning Strikes - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040060": {
+        "name": "Spinning Strikes - Light Weapon Light Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Light Weapon Light Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040062": {
+        "name": "Spinning Strikes - Medium Weapon Light Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Medium Weapon Light Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040063": {
+        "name": "Spinning Strikes - Heavy Weapon Light Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Heavy Weapon Light Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040070": {
+        "name": "Spinning Strikes - Light Weapon Heavy Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Light Weapon Heavy Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040072": {
+        "name": "Spinning Strikes - Medium Weapon Heavy Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Medium Weapon Heavy Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "611040073": {
+        "name": "Spinning Strikes - Heavy Weapon Heavy Finisher",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Strikes - Heavy Weapon Heavy Finisher",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040000": {
+        "name": "Corpse Piler - Double Slash (Double Slash), Double Slash - Light Weapon Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Corpse Piler - Double Slash (Double Slash), Double Slash - Light Weapon Double Slash",
+            "classes": [],
+            "weapons": [
+                "Rivers of Blood"
+            ]
+        }
+    },
+    "612040010": {
+        "name": "Corpse Piler - Triple Slash, Double Slash - Light Weapon Triple Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Corpse Piler - Triple Slash, Double Slash - Light Weapon Triple Slash",
+            "classes": [],
+            "weapons": [
+                "Rivers of Blood"
+            ]
+        }
+    },
+    "612040020": {
+        "name": "Corpse Piler - Single Slash, Double Slash - Light Weapon Single Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Corpse Piler - Single Slash, Double Slash - Light Weapon Single Slash",
+            "classes": [],
+            "weapons": [
+                "Rivers of Blood"
+            ]
+        }
+    },
+    "612040200": {
+        "name": "Double Slash - Medium Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Medium Double Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040210": {
+        "name": "Double Slash - Medium Triple Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Medium Triple Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040220": {
+        "name": "Double Slash - Medium Single Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Medium Single Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040300": {
+        "name": "Double Slash - Heavy Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Heavy Double Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040310": {
+        "name": "Double Slash - Heavy Triple Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Heavy Triple Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "612040320": {
+        "name": "Double Slash - Heavy Single Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Double Slash - Heavy Single Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "613040000": {
+        "name": "Prelate's Charge - Ready Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Prelate's Charge - Ready Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "613040003": {
+        "name": "Prelate's Charge - Maintain Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Prelate's Charge - Maintain Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "613040004": {
+        "name": "Prelate's Charge - Release Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Prelate's Charge - Release Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "614040050": {
+        "name": "Transient Light - Sheathe (Unsheathe), Unsheathe - Sheathe",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Sheathe (Unsheathe), Unsheathe - Sheathe",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "614040051": {
+        "name": "Transient Light - Hold, Unsheathe - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Hold, Unsheathe - Hold",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "614040052": {
+        "name": "Transient Light - Walk, Unsheathe - Walk",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Walk, Unsheathe - Walk",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "614040053": {
+        "name": "Transient Light - Cancel, Unsheathe - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Cancel, Unsheathe - Cancel",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "614040060": {
+        "name": "Transient Light - Horizontal Slash, Unsheathe - Horizontal Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Horizontal Slash, Unsheathe - Horizontal Slash",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "614040070": {
+        "name": "Transient Light - Vertical Slash, Unsheathe - Vertical Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Transient Light - Vertical Slash, Unsheathe - Vertical Slash",
+            "classes": [],
+            "weapons": [
+                "Moonveil"
+            ]
+        }
+    },
+    "615040050": {
+        "name": "Night and Flame Stance - Square Off (Square Off), Square Off - Ready Stance",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Night and Flame Stance - Square Off (Square Off), Square Off - Ready Stance",
+            "classes": [],
+            "weapons": [
+                "Sword of Night and Flame"
+            ]
+        }
+    },
+    "615040051": {
+        "name": "Night and Flame Stance - Stance Hold, Square Off - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Night and Flame Stance - Stance Hold, Square Off - Hold",
+            "classes": [],
+            "weapons": [
+                "Sword of Night and Flame"
+            ]
+        }
+    },
+    "615040052": {
+        "name": "Night and Flame Stance - Stance Walk, Night and Flame Stance - Drop Stance, Square Off - Walk",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Night and Flame Stance - Stance Walk, Night and Flame Stance - Drop Stance, Square Off - Walk",
+            "classes": [],
+            "weapons": [
+                "Sword of Night and Flame"
+            ]
+        }
+    },
+    "615040053": {
+        "name": "Square Off - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Square Off - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "615040060": {
+        "name": "Square Off - Upward Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Square Off - Upward Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "615040070": {
+        "name": "Square Off - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Square Off - Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "616040000": {
+        "name": "Giant Hunt - Upward Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Giant Hunt - Upward Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "617040010": {
+        "name": "Torch Attack - Charged Strike",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Torch Attack - Charged Strike",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "617040011": {
+        "name": "Torch Attack - Uncharged Strike",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Torch Attack - Uncharged Strike",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "617040040": {
+        "name": "Torch Attack - Charged Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Torch Attack - Charged Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "617040041": {
+        "name": "Torch Attack - Uncharged Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Torch Attack - Uncharged Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "618040000": {
+        "name": "Loretta's Slash - Light Leaping Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Loretta's Slash - Light Leaping Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "618040300": {
+        "name": "Loretta's Slash - Leaping Slash (Loretta's Slash), Loretta's Slash - Heavy Leaping Slash, Loretta's Slash - Ash of War",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Loretta's Slash - Leaping Slash (Loretta's Slash), Loretta's Slash - Heavy Leaping Slash, Loretta's Slash - Ash of War",
+            "classes": [],
+            "weapons": [
+                "Loretta's War Sickle"
+            ]
+        }
+    },
+    "618040305": {
+        "name": "Loretta's Slash - Ash of War - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Loretta's Slash - Ash of War - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "619040000": {
+        "name": "Poison Moth Flight - Spray Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Poison Moth Flight - Spray Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "620040000": {
+        "name": "Spinning Weapon - Cast",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Weapon - Cast",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "621040000": {
+        "name": "Storm Assault - Gesture",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Assault - Gesture",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "621040010": {
+        "name": "Storm Assault - Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Assault - Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "622040000": {
+        "name": "Storm Assault - Sword Leaping Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Assault - Sword Leaping Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "622040300": {
+        "name": "Frenzyflame Thrust - Leaping Thrust (Storm Assault), Storm Assault - Polearm Leaping Thrust, Storm Assault",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Frenzyflame Thrust - Leaping Thrust (Storm Assault), Storm Assault - Polearm Leaping Thrust, Storm Assault",
+            "classes": [],
+            "weapons": [
+                "Vyke's War Spear"
+            ]
+        }
+    },
+    "622040305": {
+        "name": "Storm Assault - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Assault - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "623040000": {
+        "name": "Thunderstorm - Overhead Spin (Stormcaller), Stormcaller - Overhead Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thunderstorm - Overhead Spin (Stormcaller), Stormcaller - Overhead Spin",
+            "classes": [],
+            "weapons": [
+                "Stormhawk Axe"
+            ]
+        }
+    },
+    "623040010": {
+        "name": "Thunderstorm - Follow-Up Spin, Stormcaller - Follow-Up Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thunderstorm - Follow-Up Spin, Stormcaller - Follow-Up Spin",
+            "classes": [],
+            "weapons": [
+                "Stormhawk Axe"
+            ]
+        }
+    },
+    "623040020": {
+        "name": "Thunderstorm - Final Spin, Stormcaller - Final Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thunderstorm - Final Spin, Stormcaller - Final Spin",
+            "classes": [],
+            "weapons": [
+                "Stormhawk Axe"
+            ]
+        }
+    },
+    "623040310": {
+        "name": "Stormcaller - Heavy Weapon Follow-Up Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stormcaller - Heavy Weapon Follow-Up Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "623040320": {
+        "name": "Stormcaller - Heavy Weapon Final Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Stormcaller - Heavy Weapon Final Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040000": {
+        "name": "Sword Dance - Medium Weapon Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Medium Weapon Double Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040010": {
+        "name": "Sword Dance - Medium Weapon Finish",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Medium Weapon Finish",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040200": {
+        "name": "Sword Dance - Light Weapon Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Light Weapon Double Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040210": {
+        "name": "Sword Dance - Light Weapon Finish",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Light Weapon Finish",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040300": {
+        "name": "Sword Dance - Heavy Weapon Double Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Heavy Weapon Double Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "624040310": {
+        "name": "Sword Dance - Heavy Weapon Finish",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sword Dance - Heavy Weapon Finish",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "625040050": {
+        "name": "Spinning Chain - Begin Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Chain - Begin Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "625040051": {
+        "name": "Spinning Chain - Maintain Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Chain - Maintain Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "625040052": {
+        "name": "Spinning Chain - Maintain Heavy Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Chain - Maintain Heavy Spin",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "625040060": {
+        "name": "Spinning Chain - Light Follow-up",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Chain - Light Follow-up",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "625040070": {
+        "name": "Spinning Chain - Heavy Follow-up",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Chain - Heavy Follow-up",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "650040000": {
+        "name": "Glintstone Phalanx - Cast",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Phalanx - Cast",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "650040010": {
+        "name": "Glintstone Phalanx - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Phalanx - Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "651040000": {
+        "name": "Unblockable Blade - Slash (Sacred Blade), Mists of Slumber - Mist Throw (Sacred Blade), Poisonous Mist - Mist Spray (Sacred Blade), Chilling Mist - Mist Spray (Sacred Blade), Sacred Blade - Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Unblockable Blade - Slash (Sacred Blade), Mists of Slumber - Mist Throw (Sacred Blade), Poisonous Mist - Mist Spray (Sacred Blade), Chilling Mist - Mist Spray (Sacred Blade), Sacred Blade - Slash",
+            "classes": [],
+            "weapons": [
+                "Coded Sword",
+                "St. Trina's Sword"
+            ]
+        }
+    },
+    "652040000": {
+        "name": "Ice Spear - Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ice Spear - Throw",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "652042400": {
+        "name": "Ice Spear - Heavy Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ice Spear - Heavy Throw",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "653040000": {
+        "name": "Glintstone Pebble - Cast",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Pebble - Cast",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "653040010": {
+        "name": "Glintstone Pebble - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Pebble - Thrust",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "654040000": {
+        "name": "Bloody Slash - Medium Weapon Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloody Slash - Medium Weapon Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "654040020": {
+        "name": "Bloody Slash - Heavy Weapon Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloody Slash - Heavy Weapon Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "654042400": {
+        "name": "Bloody Slash - Light Weapon Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloody Slash - Light Weapon Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "655040000": {
+        "name": "Lifesteal Fist - Jab",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lifesteal Fist - Jab",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "655040090": {
+        "name": "Lifesteal Fist - Add Left Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lifesteal Fist - Add Left Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "656040000": {
+        "name": "Eruption - Slam and Pullback",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Eruption - Slam and Pullback",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "658040000": {
+        "name": "Zamor Ice Storm - Stake (Gravitas), Gravitas - Stake",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Zamor Ice Storm - Stake (Gravitas), Gravitas - Stake",
+            "classes": [],
+            "weapons": [
+                "Zamor Curved Sword"
+            ]
+        }
+    },
+    "659040000": {
+        "name": "Storm Blade - Wind Slash 1",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Blade - Wind Slash 1",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "659040010": {
+        "name": "Storm Blade - Wind Slash 2",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Blade - Wind Slash 2",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "659040020": {
+        "name": "Storm Blade - Wind Slash 3",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Blade - Wind Slash 3",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "661040000": {
+        "name": "Waves of Darkness - Ground Stake (Earthshaker), Golden Land - Ground Stake (Earthshaker), Earthshaker - Ground Stake",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Waves of Darkness - Ground Stake (Earthshaker), Golden Land - Ground Stake (Earthshaker), Earthshaker - Ground Stake",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "661040010": {
+        "name": "Waves of Darkness - Round Swing, Golden Land - Round Swing, Earthshaker - Round Swing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Waves of Darkness - Round Swing, Golden Land - Round Swing, Earthshaker - Round Swing",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "663040000": {
+        "name": "Flaming Strike - Flame Spray",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flaming Strike - Flame Spray",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "663040010": {
+        "name": "Flaming Strike - Strike Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flaming Strike - Strike Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "664040000": {
+        "name": "Gravity Bolt - First Bolt (Thunderbolt), Thunderbolt - First Bolt",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gravity Bolt - First Bolt (Thunderbolt), Thunderbolt - First Bolt",
+            "classes": [],
+            "weapons": [
+                "Fallingstar Beast Jaw"
+            ]
+        }
+    },
+    "664040010": {
+        "name": "Gravity Bolt - Consecutive Bolt, Thunderbolt - Consecutive Bolt",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gravity Bolt - Consecutive Bolt, Thunderbolt - Consecutive Bolt",
+            "classes": [],
+            "weapons": [
+                "Fallingstar Beast Jaw"
+            ]
+        }
+    },
+    "664044200": {
+        "name": "Thunderbolt - First Bolt Light Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thunderbolt - First Bolt Light Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "664044210": {
+        "name": "Thunderbolt - Consecutive Bolt Light Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thunderbolt - Consecutive Bolt Light Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "665040000": {
+        "name": "Lightning Slash - Sword Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lightning Slash - Sword Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "665040300": {
+        "name": "Lightning Slash - Axe and Hammer Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lightning Slash - Axe and Hammer Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "666040000": {
+        "name": "Carian Grandeur - Tier 3 Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Carian Grandeur - Tier 3 Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "666040001": {
+        "name": "Carian Grandeur - Uncharged",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Carian Grandeur - Uncharged",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "666040002": {
+        "name": "Carian Grandeur - Tier 2 Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Carian Grandeur - Tier 2 Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "667040000": {
+        "name": "Carian Greatsword - Charged Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Carian Greatsword - Charged Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "667040001": {
+        "name": "Carian Greatsword - Uncharged Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Carian Greatsword - Uncharged Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "668040000": {
+        "name": "Wave of Destruction - Downward Slam (Vacuum Slice), Taker's Flames - Magma Launch (Vacuum Slice), Corpse Wax Cutter - Downward Slam (Vacuum Slash), Vacuum Slice - Downward Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wave of Destruction - Downward Slam (Vacuum Slice), Taker's Flames - Magma Launch (Vacuum Slice), Corpse Wax Cutter - Downward Slam (Vacuum Slash), Vacuum Slice - Downward Slam",
+            "classes": [],
+            "weapons": [
+                "Ruins Greatsword",
+                "Blasphemous Blade",
+                "Gargoyle's Black Blade"
+            ]
+        }
+    },
+    "669040000": {
+        "name": "Black Flame Tornado - Tornado",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Black Flame Tornado - Tornado",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "670040000": {
+        "name": "Sacred Ring of Light - 1st Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sacred Ring of Light - 1st Ring",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "670040010": {
+        "name": "Sacred Ring of Light - 2nd Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sacred Ring of Light - 2nd Ring",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "670040020": {
+        "name": "Sacred Ring of Light - 3rd Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sacred Ring of Light - 3rd Ring",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "671040000": {
+        "name": "Fires of Slumber - Right Hand Breath (Firebreather), Firebreather - Right Hand Breath",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Fires of Slumber - Right Hand Breath (Firebreather), Firebreather - Right Hand Breath",
+            "classes": [],
+            "weapons": [
+                "St. Trina's Torch"
+            ]
+        }
+    },
+    "671040030": {
+        "name": "Fires of Slumber - Two Hand Breath, Firebreather - Two Hand Breath",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Fires of Slumber - Two Hand Breath, Firebreather - Two Hand Breath",
+            "classes": [],
+            "weapons": [
+                "St. Trina's Torch"
+            ]
+        }
+    },
+    "671040040": {
+        "name": "Fires of Slumber - Left Hand Breath, Firebreather - Left Hand Breath",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Fires of Slumber - Left Hand Breath, Firebreather - Left Hand Breath",
+            "classes": [],
+            "weapons": [
+                "St. Trina's Torch"
+            ]
+        }
+    },
+    "672040000": {
+        "name": "Blood Blade - Slice and Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Blood Blade - Slice and Throw",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "672040010": {
+        "name": "Reduvia Blood Blade - 2nd Blood Throw (Blood Blade), Blood Blade - 2nd Blood Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Reduvia Blood Blade - 2nd Blood Throw (Blood Blade), Blood Blade - 2nd Blood Throw",
+            "classes": [],
+            "weapons": [
+                "Reduvia"
+            ]
+        }
+    },
+    "672040020": {
+        "name": "Reduvia Blood Blade - 3rd Blood Throw, Blood Blade - 3rd Blood Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Reduvia Blood Blade - 3rd Blood Throw, Blood Blade - 3rd Blood Throw",
+            "classes": [],
+            "weapons": [
+                "Reduvia"
+            ]
+        }
+    },
+    "673040000": {
+        "name": "Phantom Slash - Stomp Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Phantom Slash - Stomp Slash",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "673040010": {
+        "name": "Phantom Slash - Downward Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Phantom Slash - Downward Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "674040000": {
+        "name": "Spectral Lance - Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spectral Lance - Throw",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "690040030": {
+        "name": "Shield Bash - Two Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Bash - Two Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "690040040": {
+        "name": "Shield Bash - Right Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Bash - Right Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "690044730": {
+        "name": "Shield Bash - Two Hand Greatshield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Bash - Two Hand Greatshield",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "690044740": {
+        "name": "Shield Bash - Right Hand Greatshield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Bash - Right Hand Greatshield",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040030": {
+        "name": "Golden Retaliation - Two Hand Buckle (Barricade Shield), Barricade Shield - Two Hand Light Shield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Retaliation - Two Hand Buckle (Barricade Shield), Barricade Shield - Two Hand Light Shield",
+            "classes": [],
+            "weapons": [
+                "Erdtree Greatshield"
+            ]
+        }
+    },
+    "691040040": {
+        "name": "Barricade Shield - Shield Only/Fist Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Shield Only/Fist Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040240": {
+        "name": "Barricade Shield - Right Hand Light Shield Heavy Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Right Hand Light Shield Heavy Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040340": {
+        "name": "Barricade Shield - Right Hand Light Shield Light Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Right Hand Light Shield Light Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040440": {
+        "name": "Barricade Shield - Right Hand Medium Shield Heavy Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Right Hand Medium Shield Heavy Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040540": {
+        "name": "Barricade Shield - Right Hand Medium Shield Heavy Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Right Hand Medium Shield Heavy Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691040840": {
+        "name": "Golden Retaliation - Right Hand Heavy Weapon Buckle, Barricade Shield - Right Hand Greatshield Heavy Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Retaliation - Right Hand Heavy Weapon Buckle, Barricade Shield - Right Hand Greatshield Heavy Mainhand",
+            "classes": [],
+            "weapons": [
+                "Erdtree Greatshield"
+            ]
+        }
+    },
+    "691040940": {
+        "name": "Golden Retaliation - Unarmed Right Hand Buckle, Barricade Shield - Right Hand Greatshield Light Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Retaliation - Unarmed Right Hand Buckle, Barricade Shield - Right Hand Greatshield Light Mainhand",
+            "classes": [],
+            "weapons": [
+                "Erdtree Greatshield"
+            ]
+        }
+    },
+    "691044730": {
+        "name": "Golden Retaliation - Two Hand Buckle, Barricade Shield - Two Hand Greatshield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Retaliation - Two Hand Buckle, Barricade Shield - Two Hand Greatshield",
+            "classes": [],
+            "weapons": [
+                "Erdtree Greatshield"
+            ]
+        }
+    },
+    "691044740": {
+        "name": "Golden Retaliation - Right Hand Light Weapon Buckle, Barricade Shield - Greatshield Only/Fist Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Retaliation - Right Hand Light Weapon Buckle, Barricade Shield - Greatshield Only/Fist Mainhand",
+            "classes": [],
+            "weapons": [
+                "Erdtree Greatshield"
+            ]
+        }
+    },
+    "691044830": {
+        "name": "Barricade Shield - Two Hand Medium Shield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Two Hand Medium Shield",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "691044840": {
+        "name": "Barricade Shield - Medium Shield Only/Fist Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barricade Shield - Medium Shield Only/Fist Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692040000": {
+        "name": "Thop's Barrier - Right Hand (Parry), Golden Parry - Right Hand (Parry), Storm Wall - Right Hand (Parry), Carian Retaliation - Right Hand (Parry), Parry - Right Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thop's Barrier - Right Hand (Parry), Golden Parry - Right Hand (Parry), Storm Wall - Right Hand (Parry), Carian Retaliation - Right Hand (Parry), Parry - Right Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692040040": {
+        "name": "Thop's Barrier - Left Hand, Golden Parry - Left Hand, Storm Wall - Left Hand, Carian Retaliation - Left Hand, Parry - Left Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thop's Barrier - Left Hand, Golden Parry - Left Hand, Storm Wall - Left Hand, Carian Retaliation - Left Hand, Parry - Left Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692042000": {
+        "name": "Parry - Dagger Right Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Parry - Dagger Right Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692042040": {
+        "name": "Parry - Dagger Left Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Parry - Dagger Left Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692042800": {
+        "name": "Parry - Curved Sword Right Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Parry - Curved Sword Right Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "692042840": {
+        "name": "Parry - Curved Sword Left",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Parry - Curved Sword Left",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "693040000": {
+        "name": "Buckler Parry - Right Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Buckler Parry - Right Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "693040040": {
+        "name": "Buckler Parry - Left Hand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Buckler Parry - Left Hand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "693040240": {
+        "name": "Buckler Parry - Left Hand Heavy Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Buckler Parry - Left Hand Heavy Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "693040340": {
+        "name": "Buckler Parry - Left Hand Light Mainhand",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Buckler Parry - Left Hand Light Mainhand",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "698040030": {
+        "name": "Shield Crash - Right Hand Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Crash - Right Hand Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "698040031": {
+        "name": "Shield Crash - Right Hand Shove",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Crash - Right Hand Shove",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "698040040": {
+        "name": "Shield Crash - Left Hand Charge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Crash - Left Hand Charge",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "698040041": {
+        "name": "Shield Crash - Right Hand Shove",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Shield Crash - Right Hand Shove",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "700040050": {
+        "name": "Through and Through - Ready",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Through and Through - Ready",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "700040051": {
+        "name": "Through and Through - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Through and Through - Hold",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "700040053": {
+        "name": "Through and Through - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Through and Through - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "700040560": {
+        "name": "Through and Through - Fire",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Through and Through - Fire",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "701040050": {
+        "name": "Barrage - Ready",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage - Ready",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "701040051": {
+        "name": "Barrage - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage - Hold",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "701040053": {
+        "name": "Barrage - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "701040060": {
+        "name": "Barrage Readying, Barrage Shooting",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage Readying, Barrage Shooting",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "701040560": {
+        "name": "Barrage - Fire",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barrage - Fire",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "702040050": {
+        "name": "Enchanted Shot - Ready (Mighty Shot), Mighty Shot - Ready",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Enchanted Shot - Ready (Mighty Shot), Mighty Shot - Ready",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "702040051": {
+        "name": "Enchanted Shot - Hold, Mighty Shot - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Enchanted Shot - Hold, Mighty Shot - Hold",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "702040053": {
+        "name": "Enchanted Shot - Cancel, Mighty Shot - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Enchanted Shot - Cancel, Mighty Shot - Cancel",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "702040560": {
+        "name": "Enchanted Shot - Fire, Mighty Shot - Fire",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Enchanted Shot - Fire, Mighty Shot - Fire",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "708040050": {
+        "name": "Radahn's Rain - Ready (Sky Shot), Sky Shot - Ready, Rain of Arrows - Ready (Sky Shot)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Radahn's Rain - Ready (Sky Shot), Sky Shot - Ready, Rain of Arrows - Ready (Sky Shot)",
+            "classes": [],
+            "weapons": [
+                "Lion Greatbow"
+            ]
+        }
+    },
+    "708040051": {
+        "name": "Radahn's Rain - Hold, Sky Shot - Hold, Rain of Arrows - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Radahn's Rain - Hold, Sky Shot - Hold, Rain of Arrows - Hold",
+            "classes": [],
+            "weapons": [
+                "Lion Greatbow"
+            ]
+        }
+    },
+    "708040053": {
+        "name": "Radahn's Rain - Cancel, Sky Shot - Cancel, Rain of Arrows - Cancel",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Radahn's Rain - Cancel, Sky Shot - Cancel, Rain of Arrows - Cancel",
+            "classes": [],
+            "weapons": [
+                "Lion Greatbow"
+            ]
+        }
+    },
+    "708040560": {
+        "name": "Radahn's Rain - Fire, Sky Shot - Fire, Rain of Arrows - Fire",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Radahn's Rain - Fire, Sky Shot - Fire, Rain of Arrows - Fire",
+            "classes": [],
+            "weapons": [
+                "Lion Greatbow"
+            ]
+        }
+    },
+    "711040000": {
+        "name": "Storm Stomp - Stomp, Hoarfrost Stomp - Stomp (Storm Stomp)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Stomp - Stomp, Hoarfrost Stomp - Stomp (Storm Stomp)",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "712040000": {
+        "name": "Kick",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Kick",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "713040000": {
+        "name": "Lightning Ram - Roll Start",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lightning Ram - Roll Start",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "713040010": {
+        "name": "Lightning Ram - Roll Continue",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lightning Ram - Roll Continue",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "714040000": {
+        "name": "Nebula - Fan Projectile (Flame of the Redmanes), Flame of the Redmanes - Fan Projectile",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Nebula - Fan Projectile (Flame of the Redmanes), Flame of the Redmanes - Fan Projectile",
+            "classes": [],
+            "weapons": [
+                "Wing of Astel"
+            ]
+        }
+    },
+    "715040000": {
+        "name": "Ground Slam - Jump, Ground Slam [1] - Air",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ground Slam - Jump, Ground Slam [1] - Air",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "715040003": {
+        "name": "Erdtree Slam - Hangtime, Golden Slam - Hangtime (Ground Slam), Ground Slam - Hangtime",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam - Hangtime, Golden Slam - Hangtime (Ground Slam), Ground Slam - Hangtime",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar"
+            ]
+        }
+    },
+    "715040004": {
+        "name": "Ground Slam - Landing, Ground Slam [2] - Landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ground Slam - Landing, Ground Slam [2] - Landing",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "715040005": {
+        "name": "Ground Slam [1] - Air - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ground Slam [1] - Air - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "715040009": {
+        "name": "Ground Slam [2] - Landing - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ground Slam [2] - Landing - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "716040000": {
+        "name": "Erdtree Slam - Jump (Golden Slam), Golden Slam - Jump, Golden Slam  [1] - Air",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam - Jump (Golden Slam), Golden Slam - Jump, Golden Slam  [1] - Air",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar"
+            ]
+        }
+    },
+    "716040004": {
+        "name": "Erdtree Slam - Landing, Golden Slam - Landing, Golden Slam  [2] - Landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam - Landing, Golden Slam - Landing, Golden Slam  [2] - Landing",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar"
+            ]
+        }
+    },
+    "716040005": {
+        "name": "Golden Slam [1] - Air - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Slam [1] - Air - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "716040009": {
+        "name": "Golden Slam [2] - Landing - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Slam [2] - Landing - No FP",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "718040000": {
+        "name": "Hoarah Loux's Earthshaker - Roaring Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Hoarah Loux's Earthshaker - Roaring Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "718040010": {
+        "name": "Hoarah Loux's Earthshaker - Second Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Hoarah Loux's Earthshaker - Second Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "730040000": {
+        "name": "Royal Knight's Resolve - Buff (Determination), Determination - Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Royal Knight's Resolve - Buff (Determination), Determination - Buff",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "732040000": {
+        "name": "Assassin's Gambit - Long Weapon, Assassin's Gambit",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Assassin's Gambit - Long Weapon, Assassin's Gambit",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "732042400": {
+        "name": "Assassin's Gambit - Short Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Assassin's Gambit - Short Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "733040000": {
+        "name": "Golden Vow - Prayer Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Vow - Prayer Buff",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "736040000": {
+        "name": "Seppuku - Impale",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Seppuku - Impale",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "737040000": {
+        "name": "Cragblade - Medium Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Cragblade - Medium Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "737040200": {
+        "name": "Cragblade - Light Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Cragblade - Light Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "737040300": {
+        "name": "Cragblade - Heavy Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Cragblade - Heavy Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "740040000": {
+        "name": "Barbaric Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barbaric Roar - Roar",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "740400000": {
+        "name": "Barbaric Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Barbaric Roar - Roar",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "741040000": {
+        "name": "War Cry - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "War Cry - Roar",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "742040000": {
+        "name": "Beast's Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Beast's Roar - Roar",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "743040000": {
+        "name": "Troll's Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Troll's Roar - Roar",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "743040010": {
+        "name": "Troll's Roar - Charged Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Troll's Roar - Charged Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "743040011": {
+        "name": "Troll's Roar - Uncharged Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Troll's Roar - Uncharged Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "744040000": {
+        "name": "aShriek of Milos - Roar (Braggart's Roar), Braggart's Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "aShriek of Milos - Roar (Braggart's Roar), Braggart's Roar - Roar",
+            "classes": [],
+            "weapons": [
+                "Sword of Milos"
+            ]
+        }
+    },
+    "750040000": {
+        "name": "Oath of Vengeance - Stat Buff (Endure), Endure - Light Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Oath of Vengeance - Stat Buff (Endure), Endure - Light Weapon",
+            "classes": [],
+            "weapons": [
+                "Grafted Blade Greatsword"
+            ]
+        }
+    },
+    "750040200": {
+        "name": "Endure - Heavy Weapon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Endure - Heavy Weapon",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "750044200": {
+        "name": "Endure - Fist",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Endure - Fist",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "751040000": {
+        "name": "Vow of the Indomitable - Right Hand Equip",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Vow of the Indomitable - Right Hand Equip",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "751040040": {
+        "name": "Vow of the Indomitable - Left Hand Equip",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Vow of the Indomitable - Left Hand Equip",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "755040080": {
+        "name": "Quickstep - Forwards",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Quickstep - Forwards",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "755040081": {
+        "name": "Quickstep - Backwards",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Quickstep - Backwards",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "755040082": {
+        "name": "Quickstep - Left",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Quickstep - Left",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "755040083": {
+        "name": "Quickstep - Right",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Quickstep - Right",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "756040080": {
+        "name": "Bloodhound's Step - Forwards",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Step - Forwards",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "756040081": {
+        "name": "Bloodhound's Step - Backwards",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Step - Backwards",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "756040082": {
+        "name": "Bloodhound's Step - Left",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Step - Left",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "756040083": {
+        "name": "Bloodhound's Step - Right",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Step - Right",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "757040000": {
+        "name": "Raptor of the Mists - Crouch",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Raptor of the Mists - Crouch",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "757040010": {
+        "name": "Raptor of the Mists - Jump",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Raptor of the Mists - Jump",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "760040000": {
+        "name": "White Shadow's Lure - Launch Lure",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "White Shadow's Lure - Launch Lure",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "765040000": {
+        "name": "Loretta's Slash - Loretta's War Sickle",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Loretta's Slash - Loretta's War Sickle",
+            "classes": [],
+            "weapons": [
+                "Loretta's War Sickle"
+            ]
+        }
+    },
+    "765040005": {
+        "name": "Loretta's Slash - Loretta's War Sickle - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Loretta's Slash - Loretta's War Sickle - No FP",
+            "classes": [],
+            "weapons": [
+                "Loretta's War Sickle"
+            ]
+        }
+    },
+    "770040000": {
+        "name": "The Queen's Black Flame - Ignite Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "The Queen's Black Flame - Ignite Slash",
+            "classes": [],
+            "weapons": [
+                "Godslayer Greatsword"
+            ]
+        }
+    },
+    "770040010": {
+        "name": "The Queen's Black Flame - Second Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "The Queen's Black Flame - Second Slash",
+            "classes": [],
+            "weapons": [
+                "Godslayer Greatsword"
+            ]
+        }
+    },
+    "771040000": {
+        "name": "Dynast's Finesse - Dodge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Dynast's Finesse - Dodge",
+            "classes": [],
+            "weapons": [
+                "Bloody Helice"
+            ]
+        }
+    },
+    "771040010": {
+        "name": "Dynast's Finesse - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Dynast's Finesse - Thrust",
+            "classes": [],
+            "weapons": [
+                "Bloody Helice"
+            ]
+        }
+    },
+    "771040020": {
+        "name": "Dynast's Finesse - Double Strike",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Dynast's Finesse - Double Strike",
+            "classes": [],
+            "weapons": [
+                "Bloody Helice"
+            ]
+        }
+    },
+    "774040000": {
+        "name": "Death Flare - Ignite",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Death Flare - Ignite",
+            "classes": [],
+            "weapons": [
+                "Eclipse Shotel"
+            ]
+        }
+    },
+    "774040010": {
+        "name": "Death Flare - Detonate",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Death Flare - Detonate",
+            "classes": [],
+            "weapons": [
+                "Eclipse Shotel"
+            ]
+        }
+    },
+    "775040000": {
+        "name": "Bloodhound's Finesse - Backflip",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Finesse - Backflip",
+            "classes": [],
+            "weapons": [
+                "Bloodhound's Fang"
+            ]
+        }
+    },
+    "775040010": {
+        "name": "Bloodhound's Finesse - Forward Lunge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodhound's Finesse - Forward Lunge",
+            "classes": [],
+            "weapons": [
+                "Bloodhound's Fang"
+            ]
+        }
+    },
+    "776040000": {
+        "name": "Magma Guillotine - Leap, Magma Guillotine [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Guillotine - Leap, Magma Guillotine [1]",
+            "classes": [],
+            "weapons": [
+                "Magma Wyrm's Scalesword"
+            ]
+        }
+    },
+    "776040005": {
+        "name": "Magma Guillotine [1] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Guillotine [1] - No FP",
+            "classes": [],
+            "weapons": [
+                "Magma Wyrm's Scalesword"
+            ]
+        }
+    },
+    "776040010": {
+        "name": "Magma Guillotine [2]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Guillotine [2]",
+            "classes": [],
+            "weapons": [
+                "Magma Wyrm's Scalesword"
+            ]
+        }
+    },
+    "776040015": {
+        "name": "Magma Guillotine - Pull, Magma Guillotine [2] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Magma Guillotine - Pull, Magma Guillotine [2] - No FP",
+            "classes": [],
+            "weapons": [
+                "Magma Wyrm's Scalesword"
+            ]
+        }
+    },
+    "779040000": {
+        "name": "Bloodblade Dance - Forward Leap, Bloodblade Dance [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodblade Dance - Forward Leap, Bloodblade Dance [1]",
+            "classes": [],
+            "weapons": [
+                "Eleonora's Poleblade"
+            ]
+        }
+    },
+    "779040005": {
+        "name": "Bloodblade Dance [1] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodblade Dance [1] - No FP",
+            "classes": [],
+            "weapons": [
+                "Eleonora's Poleblade"
+            ]
+        }
+    },
+    "779040010": {
+        "name": "Bloodblade Dance - Backwards Leap, Bloodblade Dance [2]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodblade Dance - Backwards Leap, Bloodblade Dance [2]",
+            "classes": [],
+            "weapons": [
+                "Eleonora's Poleblade"
+            ]
+        }
+    },
+    "779040015": {
+        "name": "Bloodblade Dance [2] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodblade Dance [2] - No FP",
+            "classes": [],
+            "weapons": [
+                "Eleonora's Poleblade"
+            ]
+        }
+    },
+    "782040000": {
+        "name": "Knowledge Above All - Cast",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Knowledge Above All - Cast",
+            "classes": [],
+            "weapons": [
+                "Scepter of the All-Knowing"
+            ]
+        }
+    },
+    "783040000": {
+        "name": "Devourer of Worlds - Stake",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Devourer of Worlds - Stake",
+            "classes": [],
+            "weapons": [
+                "Devourer Scepter"
+            ]
+        }
+    },
+    "785040000": {
+        "name": "Rosus' Summons - Downward Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Rosus' Summons - Downward Slash",
+            "classes": [],
+            "weapons": [
+                "Rosus Axe"
+            ]
+        }
+    },
+    "787040000": {
+        "name": "Sacred Phalanx - Phalanx Wave",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sacred Phalanx - Phalanx Wave",
+            "classes": [],
+            "weapons": [
+                "Cleanrot Knight Spear"
+            ]
+        }
+    },
+    "788040000": {
+        "name": "Great Serpent Hunt - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Great Serpent Hunt - Thrust",
+            "classes": [],
+            "weapons": [
+                "Serpent Hunter"
+            ]
+        }
+    },
+    "788040010": {
+        "name": "Great Serpent Hunt - Upward Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Great Serpent Hunt - Upward Thrust",
+            "classes": [],
+            "weapons": [
+                "Serpent Hunter"
+            ]
+        }
+    },
+    "789040000": {
+        "name": "Angel's Wings",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Angel's Wings",
+            "classes": [],
+            "weapons": [
+                "Winged Scythe"
+            ]
+        }
+    },
+    "789040005": {
+        "name": "Angel's Wings - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Angel's Wings - No FP",
+            "classes": [],
+            "weapons": [
+                "Winged Scythe"
+            ]
+        }
+    },
+    "790040000": {
+        "name": "Storm Kick - Right Hand Punch",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Kick - Right Hand Punch",
+            "classes": [],
+            "weapons": [
+                "Veteran's Prosthesis"
+            ]
+        }
+    },
+    "790040010": {
+        "name": "Storm Kick - Right Hand Leap",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Kick - Right Hand Leap",
+            "classes": [],
+            "weapons": [
+                "Veteran's Prosthesis"
+            ]
+        }
+    },
+    "790040020": {
+        "name": "Storm Kick - Left Hand Leap",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Kick - Left Hand Leap",
+            "classes": [],
+            "weapons": [
+                "Veteran's Prosthesis"
+            ]
+        }
+    },
+    "790040040": {
+        "name": "Storm Kick - Left Hand Punch",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Storm Kick - Left Hand Punch",
+            "classes": [],
+            "weapons": [
+                "Veteran's Prosthesis"
+            ]
+        }
+    },
+    "792040000": {
+        "name": "Sorcery of the Crozier - Magic Bolt Call",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sorcery of the Crozier - Magic Bolt Call",
+            "classes": [],
+            "weapons": [
+                "Watchdog's Staff"
+            ]
+        }
+    },
+    "793040000": {
+        "name": "Erdtree Slam [1] - Air, Erdtree Slam [1] - Air",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam [1] - Air, Erdtree Slam [1] - Air",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar",
+                "Rotten Staff"
+            ]
+        }
+    },
+    "793040004": {
+        "name": "Erdtree Slam [2] - Landing, Erdtree Slam [2] - Landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam [2] - Landing, Erdtree Slam [2] - Landing",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar",
+                "Rotten Staff"
+            ]
+        }
+    },
+    "793040005": {
+        "name": "Erdtree Slam [1] - Air - No FP, Erdtree Slam [1] - Air - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam [1] - Air - No FP, Erdtree Slam [1] - Air - No FP",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar",
+                "Rotten Staff"
+            ]
+        }
+    },
+    "793040009": {
+        "name": "Erdtree Slam [2] - Landing - No FP, Erdtree Slam [2] - Landing - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Erdtree Slam [2] - Landing - No FP, Erdtree Slam [2] - Landing - No FP",
+            "classes": [],
+            "weapons": [
+                "Staff of the Avatar",
+                "Rotten Staff"
+            ]
+        }
+    },
+    "797040000": {
+        "name": "Contagious Fury - Right Hand Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Contagious Fury - Right Hand Buff",
+            "classes": [],
+            "weapons": [
+                "Jellyfish Shield"
+            ]
+        }
+    },
+    "797040030": {
+        "name": "Contagious Fury - Two Hand Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Contagious Fury - Two Hand Buff",
+            "classes": [],
+            "weapons": [
+                "Jellyfish Shield"
+            ]
+        }
+    },
+    "797040040": {
+        "name": "Contagious Fury - Left Hand Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Contagious Fury - Left Hand Buff",
+            "classes": [],
+            "weapons": [
+                "Jellyfish Shield"
+            ]
+        }
+    },
+    "798040000": {
+        "name": "Ordovis' - Charged Spin Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ordovis' - Charged Spin Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "798040001": {
+        "name": "Ordovis' - Uncharged Spin Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ordovis' - Uncharged Spin Slam",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "799040000": {
+        "name": "Spinning Weapon - Weapon Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Weapon - Weapon Spin",
+            "classes": [],
+            "weapons": [
+                "Carian Regal Scepter"
+            ]
+        }
+    },
+    "800040000": {
+        "name": "Surge of Faith - First Surge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Surge of Faith - First Surge",
+            "classes": [],
+            "weapons": [
+                "Cranial Vessel Candlestick"
+            ]
+        }
+    },
+    "800040010": {
+        "name": "Surge of Faith - Follow-up Surge",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Surge of Faith - Follow-up Surge",
+            "classes": [],
+            "weapons": [
+                "Cranial Vessel Candlestick"
+            ]
+        }
+    },
+    "801040000": {
+        "name": "Flame Spit - Load/Reload",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flame Spit - Load/Reload",
+            "classes": [],
+            "weapons": [
+                "One Eyed Greatshield"
+            ]
+        }
+    },
+    "801040033": {
+        "name": "Flame Spit - Hold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flame Spit - Hold",
+            "classes": [],
+            "weapons": [
+                "One Eyed Greatshield"
+            ]
+        }
+    },
+    "801040034": {
+        "name": "Flame Spit - Fire",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flame Spit - Fire",
+            "classes": [],
+            "weapons": [
+                "One Eyed Greatshield"
+            ]
+        }
+    },
+    "802040000": {
+        "name": "Tongues of Fire - Ready Shield",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Tongues of Fire - Ready Shield",
+            "classes": [],
+            "weapons": [
+                "Visage Shield"
+            ]
+        }
+    },
+    "802040003": {
+        "name": "Tongues of Fire - Maintain",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Tongues of Fire - Maintain",
+            "classes": [],
+            "weapons": [
+                "Visage Shield"
+            ]
+        }
+    },
+    "802040004": {
+        "name": "Tongues of Fire - End",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Tongues of Fire - End",
+            "classes": [],
+            "weapons": [
+                "Visage Shield"
+            ]
+        }
+    },
+    "803040000": {
+        "name": "Oracular Bubble - Bubble 1",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Oracular Bubble - Bubble 1",
+            "classes": [],
+            "weapons": [
+                "Envoy's Horn"
+            ]
+        }
+    },
+    "803040010": {
+        "name": "Oracular Bubble - Bubble 2",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Oracular Bubble - Bubble 2",
+            "classes": [],
+            "weapons": [
+                "Envoy's Horn"
+            ]
+        }
+    },
+    "803040020": {
+        "name": "Oracular Bubble - Bubble 3",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Oracular Bubble - Bubble 3",
+            "classes": [],
+            "weapons": [
+                "Envoy's Horn"
+            ]
+        }
+    },
+    "804040000": {
+        "name": "Bubble Shower - Bubbles",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bubble Shower - Bubbles",
+            "classes": [],
+            "weapons": [
+                "Envoy's Long Horn"
+            ]
+        }
+    },
+    "805040000": {
+        "name": "Great Oracular Bubble - Bubble",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Great Oracular Bubble - Bubble",
+            "classes": [],
+            "weapons": [
+                "Envoy's Greathorn"
+            ]
+        }
+    },
+    "806040000": {
+        "name": "Sea of Magma - Twirl",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sea of Magma - Twirl",
+            "classes": [],
+            "weapons": [
+                "Magma Whip Candlestick"
+            ]
+        }
+    },
+    "806040003": {
+        "name": "Sea of Magma - Maintain Twirl",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sea of Magma - Maintain Twirl",
+            "classes": [],
+            "weapons": [
+                "Magma Whip Candlestick"
+            ]
+        }
+    },
+    "806040004": {
+        "name": "Sea of Magma - End Strike",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Sea of Magma - End Strike",
+            "classes": [],
+            "weapons": [
+                "Magma Whip Candlestick"
+            ]
+        }
+    },
+    "807040030": {
+        "name": "Viper Bite",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Viper Bite",
+            "classes": [],
+            "weapons": [
+                "Coiled Shield"
+            ]
+        }
+    },
+    "808040000": {
+        "name": "Moonlight Greatsword - Prayer",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Moonlight Greatsword - Prayer",
+            "classes": [],
+            "weapons": [
+                "Dark Moon Greatsword"
+            ]
+        }
+    },
+    "809040000": {
+        "name": "Siluria's Woe - Charged Launch",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Siluria's Woe - Charged Launch",
+            "classes": [],
+            "weapons": [
+                "Siluria Tree"
+            ]
+        }
+    },
+    "809040001": {
+        "name": "Siluria's Woe - Uncharged Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Siluria's Woe - Uncharged Thrust",
+            "classes": [],
+            "weapons": [
+                "Siluria Tree"
+            ]
+        }
+    },
+    "810040000": {
+        "name": "Rallying Standard - Rally Cry",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Rallying Standard - Rally Cry",
+            "classes": [],
+            "weapons": [
+                "Commander's Standard"
+            ]
+        }
+    },
+    "811040000": {
+        "name": "Bear Witness! - Right Hand Dragon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bear Witness! - Right Hand Dragon",
+            "classes": [],
+            "weapons": [
+                "Grafted Dragon"
+            ]
+        }
+    },
+    "811040040": {
+        "name": "Bear Witness! - Left Hand Dragon",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bear Witness! - Left Hand Dragon",
+            "classes": [],
+            "weapons": [
+                "Grafted Dragon"
+            ]
+        }
+    },
+    "812040000": {
+        "name": "Eochaid's Dancing Blade - Charged Corkscrew",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Eochaid's Dancing Blade - Charged Corkscrew",
+            "classes": [],
+            "weapons": [
+                "Marais Executioner Sword"
+            ]
+        }
+    },
+    "812040001": {
+        "name": "Eochaid's Dancing Blade - Uncharged Corkscrew",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Eochaid's Dancing Blade - Uncharged Corkscrew",
+            "classes": [],
+            "weapons": [
+                "Marais Executioner Sword"
+            ]
+        }
+    },
+    "813040000": {
+        "name": "Soul Stifler - Prayer Start, Familiar Rancor - Prayer Start (Soul Stifler)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Soul Stifler - Prayer Start, Familiar Rancor - Prayer Start (Soul Stifler)",
+            "classes": [],
+            "weapons": [
+                "Winged Greathorn",
+                "Family Heads"
+            ]
+        }
+    },
+    "813040010": {
+        "name": "Soul Stifler - Prayer End, Familiar Rancor - Prayer End",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Soul Stifler - Prayer End, Familiar Rancor - Prayer End",
+            "classes": [],
+            "weapons": [
+                "Winged Greathorn",
+                "Family Heads"
+            ]
+        }
+    },
+    "816040000": {
+        "name": "Reduvia Blood Blade - Blood Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Reduvia Blood Blade - Blood Throw",
+            "classes": [],
+            "weapons": [
+                "Reduvia"
+            ]
+        }
+    },
+    "817040000": {
+        "name": "Glintstone Dart - Charged Dart",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Dart - Charged Dart",
+            "classes": [],
+            "weapons": [
+                "Glintstone Kris"
+            ]
+        }
+    },
+    "817040001": {
+        "name": "Glintstone Dart - Uncharged Dart",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Dart - Uncharged Dart",
+            "classes": [],
+            "weapons": [
+                "Glintstone Kris"
+            ]
+        }
+    },
+    "817040010": {
+        "name": "Glintstone Dart - Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Glintstone Dart - Thrust",
+            "classes": [],
+            "weapons": [
+                "Glintstone Kris"
+            ]
+        }
+    },
+    "818040000": {
+        "name": "Flowing Form - Whip Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Flowing Form - Whip Slash",
+            "classes": [],
+            "weapons": [
+                "Nox Flowing Sword"
+            ]
+        }
+    },
+    "819040060": {
+        "name": "Night and Flame Stance - Comet Azur",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Night and Flame Stance - Comet Azur",
+            "classes": [],
+            "weapons": [
+                "Sword of Night and Flame"
+            ]
+        }
+    },
+    "819040070": {
+        "name": "Night and Flame Stance - Flame Wave",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Night and Flame Stance - Flame Wave",
+            "classes": [],
+            "weapons": [
+                "Sword of Night and Flame"
+            ]
+        }
+    },
+    "820040000": {
+        "name": "Wave of Gold - Unleash Wave",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wave of Gold - Unleash Wave",
+            "classes": [],
+            "weapons": [
+                "Sacred Relic Greatsword"
+            ]
+        }
+    },
+    "821040000": {
+        "name": "Ruinous Ghostflame - Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ruinous Ghostflame - Buff",
+            "classes": [],
+            "weapons": [
+                "Helphen's Steeple"
+            ]
+        }
+    },
+    "822040000": {
+        "name": "Establish Order - AOE Prayer",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Establish Order - AOE Prayer",
+            "classes": [],
+            "weapons": [
+                "Golden Order Greatsword"
+            ]
+        }
+    },
+    "822040010": {
+        "name": "Establish Order - Double Swing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Establish Order - Double Swing",
+            "classes": [],
+            "weapons": [
+                "Golden Order Greatsword"
+            ]
+        }
+    },
+    "824040000": {
+        "name": "Spearcall Ritual - Spear Call",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spearcall Ritual - Spear Call",
+            "classes": [],
+            "weapons": [
+                "Death Ritual Spear"
+            ]
+        }
+    },
+    "825040000": {
+        "name": "Wolf's Assault - Leaping Thrust, Wolf's Assault",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wolf's Assault - Leaping Thrust, Wolf's Assault",
+            "classes": [],
+            "weapons": [
+                "Royal Greatsword"
+            ]
+        }
+    },
+    "825040005": {
+        "name": "Wolf's Assault - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Wolf's Assault - No FP",
+            "classes": [],
+            "weapons": [
+                "Royal Greatsword"
+            ]
+        }
+    },
+    "826040000": {
+        "name": "Thundercloud Form - Thundercloud Strike, Thundercloud Form - Uncharged Landing Strike, Thundercloud Form - In air/fully charged landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thundercloud Form - Thundercloud Strike, Thundercloud Form - Uncharged Landing Strike, Thundercloud Form - In air/fully charged landing",
+            "classes": [],
+            "weapons": [
+                "Dragon King's Cragblade"
+            ]
+        }
+    },
+    "826040001": {
+        "name": "Thundercloud Form - normal landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thundercloud Form - normal landing",
+            "classes": [],
+            "weapons": [
+                "Dragon King's Cragblade"
+            ]
+        }
+    },
+    "826040005": {
+        "name": "Thundercloud Form - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Thundercloud Form - No FP",
+            "classes": [],
+            "weapons": [
+                "Dragon King's Cragblade"
+            ]
+        }
+    },
+    "827040000": {
+        "name": "Cursed Blood Slice - Running Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Cursed Blood Slice - Running Slash",
+            "classes": [],
+            "weapons": [
+                "Morgott's Curved Sword"
+            ]
+        }
+    },
+    "827040010": {
+        "name": "Cursed Blood Slice - Follow-up Slash",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Cursed Blood Slice - Follow-up Slash",
+            "classes": [],
+            "weapons": [
+                "Morgott's Curved Sword"
+            ]
+        }
+    },
+    "828040000": {
+        "name": "Waterfowl Dance - Float/Four Hit Combo",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Waterfowl Dance - Float/Four Hit Combo",
+            "classes": [],
+            "weapons": [
+                "Hand of Malenia"
+            ]
+        }
+    },
+    "828040010": {
+        "name": "Waterfowl Dance - Stepping Double Strike",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Waterfowl Dance - Stepping Double Strike",
+            "classes": [],
+            "weapons": [
+                "Hand of Malenia"
+            ]
+        }
+    },
+    "828040020": {
+        "name": "Waterfowl Dance - Twisting Final Four Hit",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Waterfowl Dance - Twisting Final Four Hit",
+            "classes": [],
+            "weapons": [
+                "Hand of Malenia"
+            ]
+        }
+    },
+    "829040000": {
+        "name": "Gold Breaker - Float, Gold Breaker [1]",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gold Breaker - Float, Gold Breaker [1]",
+            "classes": [],
+            "weapons": [
+                "Marika's Hammer"
+            ]
+        }
+    },
+    "829040004": {
+        "name": "Gold Breaker - Strike, Gold Breaker [2] - Landing",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gold Breaker - Strike, Gold Breaker [2] - Landing",
+            "classes": [],
+            "weapons": [
+                "Marika's Hammer"
+            ]
+        }
+    },
+    "829040005": {
+        "name": "Gold Breaker [1] - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gold Breaker [1] - No FP",
+            "classes": [],
+            "weapons": [
+                "Marika's Hammer"
+            ]
+        }
+    },
+    "829040009": {
+        "name": "Gold Breaker [2] - Landing - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Gold Breaker [2] - Landing - No FP",
+            "classes": [],
+            "weapons": [
+                "Marika's Hammer"
+            ]
+        }
+    },
+    "831040000": {
+        "name": "Regal Roar - Roar",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Regal Roar - Roar",
+            "classes": [],
+            "weapons": [
+                "Axe of Godfrey"
+            ]
+        }
+    },
+    "832040000": {
+        "name": "Starcaller Cry - Gravity Cry",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Starcaller Cry - Gravity Cry",
+            "classes": [],
+            "weapons": [
+                "Starscourge Greatsword"
+            ]
+        }
+    },
+    "832040010": {
+        "name": "Starcaller Cry - Release Slam",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Starcaller Cry - Release Slam",
+            "classes": [],
+            "weapons": [
+                "Starscourge Greatsword"
+            ]
+        }
+    },
+    "834040000": {
+        "name": "Bloodboon Ritual - NIHIL 1",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodboon Ritual - NIHIL 1",
+            "classes": [],
+            "weapons": [
+                "Mohgwyn's Sacred Spear"
+            ]
+        }
+    },
+    "834040010": {
+        "name": "Bloodboon Ritual - NIHIL 2",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodboon Ritual - NIHIL 2",
+            "classes": [],
+            "weapons": [
+                "Mohgwyn's Sacred Spear"
+            ]
+        }
+    },
+    "834040020": {
+        "name": "Bloodboon Ritual - NIHIL 3",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Bloodboon Ritual - NIHIL 3",
+            "classes": [],
+            "weapons": [
+                "Mohgwyn's Sacred Spear"
+            ]
+        }
+    },
+    "836040000": {
+        "name": "Blade of Gold - Projectile Launch (Blade of Death), Blade of Death - Projectile Launch, Blade of Death",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Blade of Gold - Projectile Launch (Blade of Death), Blade of Death - Projectile Launch, Blade of Death",
+            "classes": [],
+            "weapons": [
+                "Blade of Calling",
+                "Black Knife"
+            ]
+        }
+    },
+    "836040005": {
+        "name": "Blade of Death - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Blade of Death - No FP",
+            "classes": [],
+            "weapons": [
+                "Black Knife"
+            ]
+        }
+    },
+    "837040000": {
+        "name": "Blade of Gold",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Blade of Gold",
+            "classes": [],
+            "weapons": [
+                "Blade of Calling"
+            ]
+        }
+    },
+    "837040005": {
+        "name": "Blade of Gold - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Blade of Gold - No FP",
+            "classes": [],
+            "weapons": [
+                "Blade of Calling"
+            ]
+        }
+    },
+    "838040000": {
+        "name": "Destined Death - Slash/Stake",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Destined Death - Slash/Stake",
+            "classes": [],
+            "weapons": [
+                "Maliketh's Black Blade"
+            ]
+        }
+    },
+    "839040050": {
+        "name": "Spinning Wheel - Wind Up",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Wheel - Wind Up",
+            "classes": [],
+            "weapons": [
+                "Ghiza's Wheel"
+            ]
+        }
+    },
+    "839040051": {
+        "name": "Spinning Wheel - Maintain Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Wheel - Maintain Spin",
+            "classes": [],
+            "weapons": [
+                "Ghiza's Wheel"
+            ]
+        }
+    },
+    "839040052": {
+        "name": "Spinning Wheel - Walking Spin",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Spinning Wheel - Walking Spin",
+            "classes": [],
+            "weapons": [
+                "Ghiza's Wheel"
+            ]
+        }
+    },
+    "840040000": {
+        "name": "Onyx Lord's Repulsion - Stake (Alabaster Lord's Pull), Alabaster Lord's Pull - Stake",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Onyx Lord's Repulsion - Stake (Alabaster Lord's Pull), Alabaster Lord's Pull - Stake",
+            "classes": [],
+            "weapons": [
+                "Onyx Lord Greatsword",
+                "Alabaster Lord Sword"
+            ]
+        }
+    },
+    "846040000": {
+        "name": "Claw Flick - Flick",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Claw Flick - Flick",
+            "classes": [],
+            "weapons": [
+                "Ringed Finger"
+            ]
+        }
+    },
+    "847040000": {
+        "name": "Nebula - Nebula Sweep",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Nebula - Nebula Sweep",
+            "classes": [],
+            "weapons": [
+                "Bastard's Stars"
+            ]
+        }
+    },
+    "848040000": {
+        "name": "Ghostflame Ignition - Ignite",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ghostflame Ignition - Ignite",
+            "classes": [],
+            "weapons": [
+                "Death's Poker"
+            ]
+        }
+    },
+    "848040010": {
+        "name": "Ghostflame Ignition - Sweep",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ghostflame Ignition - Sweep",
+            "classes": [],
+            "weapons": [
+                "Death's Poker"
+            ]
+        }
+    },
+    "848040020": {
+        "name": "Ghostflame Ignition - Detonate",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ghostflame Ignition - Detonate",
+            "classes": [],
+            "weapons": [
+                "Death's Poker"
+            ]
+        }
+    },
+    "849040000": {
+        "name": "Ancient Lightning Spear - Charged Spear Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ancient Lightning Spear - Charged Spear Throw",
+            "classes": [],
+            "weapons": [
+                "Bolt of Gransax"
+            ]
+        }
+    },
+    "849040001": {
+        "name": "Ancient Lightning Spear - Uncharged Spear Throw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Ancient Lightning Spear - Uncharged Spear Throw",
+            "classes": [],
+            "weapons": [
+                "Bolt of Gransax"
+            ]
+        }
+    },
+    "850040000": {
+        "name": "Frenzyflame Thrust",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Frenzyflame Thrust",
+            "classes": [],
+            "weapons": [
+                "Vyke's War Spear"
+            ]
+        }
+    },
+    "850040005": {
+        "name": "Frenzyflame Thrust - No FP",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Frenzyflame Thrust - No FP",
+            "classes": [],
+            "weapons": [
+                "Vyke's War Spear"
+            ]
+        }
+    },
+    "851040000": {
+        "name": "Miquella's Rings of Light - 1st Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Miquella's Rings of Light - 1st Ring",
+            "classes": [],
+            "weapons": [
+                "Halo Scythe"
+            ]
+        }
+    },
+    "851040010": {
+        "name": "Miquella's Rings of Light - 2nd Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Miquella's Rings of Light - 2nd Ring",
+            "classes": [],
+            "weapons": [
+                "Halo Scythe"
+            ]
+        }
+    },
+    "851040020": {
+        "name": "Miquella's Rings of Light - 3rd Ring",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Miquella's Rings of Light - 3rd Ring",
+            "classes": [],
+            "weapons": [
+                "Halo Scythe"
+            ]
+        }
+    },
+    "852030600": {
+        "name": "Golden Tempering - Charged Buffed Heavy",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Tempering - Charged Buffed Heavy",
+            "classes": [],
+            "weapons": [
+                "Ornamental Straight Sword"
+            ]
+        }
+    },
+    "852030605": {
+        "name": "Golden Tempering - Uncharged Buffed Heavy",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Tempering - Uncharged Buffed Heavy",
+            "classes": [],
+            "weapons": [
+                "Ornamental Straight Sword"
+            ]
+        }
+    },
+    "852040000": {
+        "name": "Golden Tempering - Buff",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Golden Tempering - Buff",
+            "classes": [],
+            "weapons": [
+                "Ornamental Straight Sword"
+            ]
+        }
+    },
+    "853040000": {
+        "name": "Last Rites - AOE Buff, Shared Order - AOE Buff (Last Rites), Sacred Order - AOE Buff (Last Rites)",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Last Rites - AOE Buff, Shared Order - AOE Buff (Last Rites), Sacred Order - AOE Buff (Last Rites)",
+            "classes": [],
+            "weapons": [
+                "Golden Epitaph"
+            ]
+        }
+    },
+    "a752040000": {
+        "name": "Holy Ground",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Holy Ground",
+            "classes": [],
+            "weapons": []
+        }
+    },
+    "6000400000": {
+        "name": "Lion's Claw",
+        "weapons": {},
+        "classes": {},
+        "meta": {
+            "name": "Lion's Claw",
+            "classes": [],
+            "weapons": []
+        }
+    }
+}
